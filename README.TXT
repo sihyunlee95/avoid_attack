@@ -1,5 +1,5 @@
 AVOID and ATTACK
-Si Hyun Lee
+Sihyun Lee
 
 -STAGE SELECT:
 R to retry; N to move on to next stage; total 10 stages.
